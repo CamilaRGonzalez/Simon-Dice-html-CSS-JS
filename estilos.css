@@ -1,0 +1,30 @@
+.col-4{
+    height: 200px;
+    opacity: 0.7;
+
+}
+#cabecera{
+    height: 50px; 
+    margin-top: 20px; 
+    display: flex; 
+    flex-wrap: nowrap;
+    align-items: stretch;
+
+
+}
+
+#c1{
+    background-color: darkviolet;
+}
+
+#c2{
+    background-color: rgb(236, 14, 132);
+}
+
+#c3{
+    background-color: rgb(38, 179, 38);
+}
+
+#c4{
+    background-color: yellow;
+}
